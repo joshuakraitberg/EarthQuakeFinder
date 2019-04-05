@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assign6</string>
+    <string name="my_name">Joshua Kraitberg</string>
+
+    <string name="main_title">Earthquake\nParameters</string>
+    <string name="num_of_quakes">Number of Earthquakes:</string>
+    <string name="orderby_mag">Order By:</string>
+    <string name="start_date">START DATE:</string>
+    <string name="submit_btn">SUBMIT</string>
+</resources>
